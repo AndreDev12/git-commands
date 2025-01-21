@@ -27,3 +27,11 @@
 - Eliminar rama
 
   git branch -d login
+
+- Descarga el historial de todas las ramas de remoto en el repositorio local
+
+  git fetch
+
+- Descarga el historial e incorpora cambios en el espacio de trabajo
+
+  git pull
