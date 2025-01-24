@@ -1,1 +1,1 @@
-print("Connection with the database")
+print("Connection with the PostgreSQL database")
