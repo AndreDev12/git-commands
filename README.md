@@ -40,6 +40,6 @@
 
   git checkout (nombre del archivo)
 
-- Hacer una copia de los commits de la rama seleccionada y moverlos a la rama actual
+- Hace una copia de los commits de la rama seleccionada y los mueve a la rama actual
 
   git merge (rama seleccionada)
