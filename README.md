@@ -35,3 +35,11 @@
 - Descarga el historial e incorpora cambios en el espacio de trabajo
 
   git pull
+
+- Restaurar archivo como estaba la última vez
+
+  git checkout (nombre del archivo)
+
+- Hacer una copia de los commits de la rama seleccionada y moverlos a la rama actual
+
+  git merge (rama seleccionada)
